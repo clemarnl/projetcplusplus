@@ -1,6 +1,3 @@
-# projetcplusplus
-Notre projet de serre automone
-
 # Informations générales #
 Ce projet est une serre gérée automatiquement par différents capteurs et actionneurs.
 Il est composé de deux classes mères (Capteur et Actionneur) dont héritent les classes filles correspondant aux différents capteurs et actionneurs.
